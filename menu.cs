@@ -7,3 +7,4 @@ public class test {
 
 
 }
+public class Info { }
