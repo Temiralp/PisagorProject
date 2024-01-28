@@ -12,7 +12,12 @@ public class test
 
 public class test {
 
-    IdTest();
+    IdTest(9,7,4,5);
+   virtual void DataBases()
+    {
+
+    }
+
 
 
 
