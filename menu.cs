@@ -1,9 +1,19 @@
 public class Ui { }
+
 public class test {
 
 
 
     IdTest(9,7,4,5);
+}
+public class test
+{
+
+    IdTest(10,11);
+
+
+    IdTest(9,7,4,5);
+
 
    virtual void DataBases()
     {
@@ -28,8 +38,8 @@ ce9d05fd498be0ef2264f494d0441047d4bd6032
 
 
 
-
-
+}
+======
 
 
 
@@ -37,4 +47,9 @@ ce9d05fd498be0ef2264f494d0441047d4bd6032
 
     IdTestBugra();
 
+
+
 }
+
+}
+
