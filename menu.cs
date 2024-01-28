@@ -1,4 +1,12 @@
-public class Ui { }
+public class Ui {dvsd23124124r134r1341vsdv }
+
+
+public vodasdafadfdsvsdid deneme(asvadsvda)
+{
+    console.writeline("Deneme");
+}
+
+zdvzdvzd
 
 
 public class test {
@@ -62,4 +70,3 @@ public class test
 }
 
 public class Enes { }
-
