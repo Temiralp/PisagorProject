@@ -1,2 +1,9 @@
 public class Ui { }
-public class test { }
+public class test {
+
+    IdTest();
+
+
+
+
+}
