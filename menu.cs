@@ -1,6 +1,6 @@
-public class Ui { }
+public class Ui {dvsdvsdv }
 
-public void deneme()
+public void deneme(asvadsvda)
 {
     console.writeline("Deneme");
 }
