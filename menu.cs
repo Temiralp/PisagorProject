@@ -1,7 +1,7 @@
 public class Ui { }
 public class test {
 
-    IdTest();
+    IdTest(9,5,4);
 
 
 
